@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=200&section=header&text=Cau%C3%A3%20Diego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Science%20Student%20%C2%B7%20Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o&descAlignY=52&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=200&section=header&text=Cau%C3%A3%20Diego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Dev%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=52&descSize=17"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=7DCFFF&center=true&vCenter=true&width=800&lines=%3E+inicializando+perfil...;%3E+carregando+Cau%C3%A3+Diego...;%3E+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+construindo+projetos+full+stack;%3E+sempre+aprendendo%2C+sempre+evoluindo" />
 
@@ -18,19 +18,18 @@
 
 ---
 
-## 🖥️ whoami
+## 👤 sobre mim
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  nome       : Cauã Diego                                             │
-│  formação   : Ciência da Computação                                  │
-│  status     : Desenvolvedor em formação                              │
-│  local      : São Paulo, Brasil                                      │
-│  foco atual : Full Stack Dev (React · Node.js/Express · PostgreSQL)  │
-│  objetivo   : Conseguir um estágio como desenvolvedor                │
-│                                                                      │
-│  > Sempre estudando. Sempre criando. Sempre evoluindo.               │
-└──────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│  nome     : Cauã Diego                                  │
+│  formação : Ciência da Computação                       │
+│  local    : São Paulo, Brasil                           │
+│  stack    : React · Node.js/Express · PostgreSQL        │
+│  objetivo : Estágio em desenvolvimento de software      │
+│                                                         │
+│  > Sempre estudando. Sempre criando. Sempre evoluindo.  │
+└─────────────────────────────────────────────────────────┘
 ```
 
 Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com
@@ -40,7 +39,7 @@ nasceu de um problema real que eu quis resolver.
 
 ---
 
-## ⚡ skills
+## ⚡ habilidades
 
 <div align="center">
 
@@ -63,7 +62,7 @@ certificação profissional.</sub></p>
 
 ---
 
-## 🚀 projects
+## 🚀 projetos
 
 <table width="100%">
 <tr>
@@ -116,7 +115,7 @@ Projeto de responsividade feito durante curso da Alura.
 
 ---
 
-## 🧪 atualmente aprendendo
+## 📘 em aprendizado
 
 <div align="center">
 
@@ -129,7 +128,7 @@ Projeto de responsividade feito durante curso da Alura.
 
 ---
 
-## 📊 `$ github --stats`
+## 📊 estatísticas do github
 
 <table width="100%">
 <tr>
@@ -155,7 +154,7 @@ atualizar nada na mão.</sub></p>
 
 ---
 
-## 🏆 trophies
+## 🏆 conquistas
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Caua031&theme=tokyonight&column=-1&margin-w=10&margin-h=10" />
@@ -163,7 +162,7 @@ atualizar nada na mão.</sub></p>
 
 ---
 
-## 🐍 contribution.exe
+## 🐍 contribuições
 
 <div align="center">
 
@@ -177,7 +176,7 @@ atualizar nada na mão.</sub></p>
 
 ---
 
-## 🌐 connect
+## 📫 contato
 
 <div align="center">
 
