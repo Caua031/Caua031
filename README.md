@@ -115,7 +115,7 @@ comandos por voz.
 
 ---
 
-## 🧪 $ currently_learning
+## 🧪 Atualmente aprendendo
 
 <div align="center">
 
@@ -152,7 +152,7 @@ atualizar nada na mão.</sub></p>
 
 ---
 
-## 🏆 `$ trophies`
+## 🏆 trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Caua031&theme=tokyonight&column=-1&margin-w=10&margin-h=10" />
@@ -160,7 +160,7 @@ atualizar nada na mão.</sub></p>
 
 ---
 
-## 🐍 `$ contribution.exe`
+## 🐍 contribution.exe
 
 <div align="center">
 
@@ -174,7 +174,7 @@ atualizar nada na mão.</sub></p>
 
 ---
 
-## 🌐 `$ connect`
+## 🌐 connect
 
 <div align="center">
 
