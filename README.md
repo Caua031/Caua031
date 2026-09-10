@@ -130,16 +130,12 @@ Projeto de responsividade feito durante curso da Alura.
 
 ## 📊 estatísticas do github
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Caua031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua031&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&exclude_repo=cloudshell-novnc-automation"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Caua031?label=Seguidores&style=for-the-badge&logo=github&color=7AA2F7&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/github/stars/Caua031?label=Stars%20Totais&style=for-the-badge&logo=github&color=BB9AF7&logoColor=white&labelColor=1a1b27"/>
+
+</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Caua031&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -149,8 +145,9 @@ Projeto de responsividade feito durante curso da Alura.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caua031&theme=tokyo-night&hide_border=true&area=true&radius=10" />
 </div>
 
-<p align="center"><sub>Tudo acima é gerado em tempo real a partir da API do GitHub — não precisa
-atualizar nada na mão.</sub></p>
+<p align="center"><sub>Os badges de seguidores e stars são gerados pelo shields.io e sempre
+carregam. O streak e o gráfico de atividade abaixo vêm de serviços gratuitos de terceiros —
+se algum dia pararem de aparecer, é só avisar que eu troco.</sub></p>
 
 ---
 
