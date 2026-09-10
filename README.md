@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou o Cauã Diego 👋
 
-<!--
-**Caua031/Caua031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor em formação
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- C
+- SQL
+- HTML
+- CSS
+
+## 🚀 Projetos
+
+### Projeto Quiz
+Quiz desenvolvido com HTML, CSS e JavaScript.
+
+### Sistema de Cadastro
+Projeto desenvolvido para praticar desenvolvimento web.
+
+### Jarvis
+Assistente virtual desenvolvido em Python.
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Estruturas de Dados
+- Banco de Dados
+- Programação
+
+## 📫 Contato
+
+[LinkedIn](...)
