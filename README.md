@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0077FF,100:7F00FF&height=180&section=header&text=Cau%C3%A3%20Diego&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=180&section=header&text=Cau%C3%A3%20Diego&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18"/>
 
-<!-- ======================= TYPING ======================= -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+Inicializando+sistema...;%3E+Carregando+Cau%C3%A3+Diego...;%3E+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+Desenvolvedor+em+forma%C3%A7%C3%A3o;%3E+Aprendendo.+Criando.+Evoluindo." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=750&lines=%3E+Inicializando+sistema...;%3E+Carregando+Cau%C3%A3+Diego...;%3E+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+Desenvolvedor+em+forma%C3%A7%C3%A3o;%3E+Aprendendo.+Criando.+Evoluindo." />
 
 <br>
 
@@ -24,24 +22,21 @@
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│                                                        │
 │  Nome       : Cauã Diego                              │
-│  Formação   : Ciência da Computação                   │
+│  Formação   : Ciência da Computação                    │
 │  Status     : Desenvolvedor em formação                │
-│  Foco       : Desenvolvimento de Software              │
-│                                                        │
-│  > Sempre estudando                                    │
-│  > Sempre criando                                      │
-│  > Sempre evoluindo                                    │
-│                                                        │
+│  Foco       : Desenvolvimento de Software               │
+│                                                         │
+│  > Sempre estudando. Sempre criando. Sempre evoluindo. │
 └──────────────────────────────────────────────────────┘
 ```
 
-Sou estudante de **Ciência da Computação** e desenvolvedor em formação.
+Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com
+interesse em desenvolvimento de software, automação e criação de projetos
+que me permitam colocar meus conhecimentos em prática.
 
-Tenho interesse em desenvolvimento de software, programação, tecnologia,
-automação e criação de projetos que me permitam colocar meus conhecimentos
-em prática.
+🎯 **Meta atual:** evoluir para Full Stack Developer — stack alvo `React` +
+`Node.js/Express` + `PostgreSQL`, com foco em conseguir um estágio.
 
 ---
 
@@ -49,168 +44,118 @@ em prática.
 
 <div align="center">
 
-**Linguagens**
+<img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql,git,github,vscode,linux" />
 
-<img src="https://skillicons.dev/icons?i=python,c,javascript" />
+<br><br>
 
-**Desenvolvimento Web**
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-**Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-55%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-50%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
----
-
-## 🧠 `$ learning`
-
-```text
-Python              ███████████████░░░░░
-JavaScript          ████████████░░░░░░░░
-C                   ███████████░░░░░░░░░
-HTML                █████████████████░░░
-CSS                 ████████████████░░░░
-SQL                 ██████████░░░░░░░░░░
-```
-
-> Os níveis representam meu momento atual de estudos e não uma avaliação
-> profissional das minhas habilidades.
-
----
-
-## 🎯 `$ next_goal`
-
-```text
-┌──────────────────────────────────────────────────────┐
-│  Objetivo   : Full Stack Developer                    │
-│  Stack alvo : React + Node.js/Express + PostgreSQL    │
-│  Motivo     : Alinhado ao mercado de estágios no BR   │
-└──────────────────────────────────────────────────────┘
-```
-
-Atualmente estruturando meus estudos para evoluir de estudante para
-desenvolvedor full stack, com foco em conseguir um estágio na área.
+<p align="center"><sub>Os níveis são autoavaliação do meu momento atual de estudos, não uma
+certificação profissional.</sub></p>
 
 ---
 
 ## 🚀 `$ projects`
 
-<div align="center">
-
-<a href="https://github.com/Caua031/projeto-quiz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Caua031&repo=projeto-quiz&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Caua031/Sistema-De-Cadastro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Caua031&repo=Sistema-De-Cadastro&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Caua031/AluraBooks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Caua031&repo=AluraBooks&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 Projeto Quiz
-Quiz interativo desenvolvido com HTML, CSS, JavaScript e lógica de
-programação.
+Quiz interativo com lógica de programação e interface dinâmica.
+
+<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
+
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/projeto-quiz)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📝 Sistema de Cadastro
-Projeto desenvolvido para praticar conceitos de desenvolvimento web,
-formulários e lógica de programação.
+Formulários e lógica de programação aplicados na prática.
+
+<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
+
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/Sistema-De-Cadastro)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 AluraBooks
-Projeto de responsividade feito durante curso da Alura, utilizando HTML,
-CSS e JavaScript.
+Projeto de responsividade feito durante curso da Alura.
+
+<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
+
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/AluraBooks)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Jarvis
-Assistente virtual desenvolvido em Python (ainda sem repositório público),
-com foco em:
+Assistente virtual em Python: reconhecimento de voz, automação e
+comandos por voz.
 
-```text
-[✓] Reconhecimento de voz
-[✓] Automação
-[✓] Comandos por voz
-[✓] Inteligência artificial local
-[✓] Integração com aplicações
-```
+<img src="https://skillicons.dev/icons?i=python" height="28"/>
+
+![Em breve](https://img.shields.io/badge/Ainda_sem_reposit%C3%B3rio_p%C3%BAblico-2C2C2C?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧪 `$ currently_learning`
 
-```text
-┌─────────────────────────────────────────────┐
-│                                               │
-│  [+] Lógica de programação                   │
-│  [+] Desenvolvimento Web                     │
-│  [+] Python                                  │
-│  [+] JavaScript                              │
-│  [+] Banco de Dados                          │
-│  [+] Estruturas de Dados                     │
-│  [+] Desenvolvimento de projetos             │
-│                                               │
-└─────────────────────────────────────────────┘
-```
+<div align="center">
+
+`Lógica de programação` · `Desenvolvimento Web` · `Python` · `JavaScript`
+`Banco de Dados` · `Estruturas de Dados` · `Desenvolvimento de projetos`
+
+</div>
 
 ---
 
 ## 📊 `$ github --stats`
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-</div>
-
-<p align="center"><sub>Atualiza sozinho sempre que a página é aberta — não precisa mexer em nada.</sub></p>
-
----
-
-## 🐍 `$ top_languages`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua031&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=cloudshell-novnc-automation"/>
-
-</div>
-
-<p align="center"><sub>Gráfico real, gerado a partir dos repositórios públicos — conforme eu for
-commitando em Python/JS/etc., ele se atualiza sozinho.</sub></p>
-
----
-
-## 🔥 `$ git streak`
+<table width="100%">
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Caua031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua031&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=cloudshell-novnc-automation"/>
+</td>
+</tr>
+</table>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Caua031&theme=tokyonight&hide_border=true" />
-
 </div>
-
----
-
-## 📈 `$ activity`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Caua031&theme=tokyo-night&hide_border=true&area=true" />
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caua031&theme=tokyo-night&hide_border=true&area=true" />
 </div>
+
+<p align="center"><sub>Tudo acima é gerado em tempo real a partir da API do GitHub — não precisa
+atualizar nada na mão.</sub></p>
 
 ---
 
 ## 🏆 `$ trophies`
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Caua031&theme=tokyonight&column=-1&margin-w=10&margin-h=10" />
-
 </div>
 
 ---
@@ -227,39 +172,19 @@ commitando em Python/JS/etc., ele se atualiza sozinho.</sub></p>
 
 </div>
 
-<p align="center"><sub>Precisa do workflow do GitHub Actions rodando no repositório para funcionar
-— veja as instruções depois deste arquivo.</sub></p>
-
 ---
 
-## 💻 `$ terminal`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                  CAUA@GITHUB                          ║
-╠══════════════════════════════════════════════════════╣
-║                                                        ║
-║  $ ./start-development.sh                             ║
-║                                                        ║
-║  > Loading skills...                    [OK]          ║
-║  > Loading projects...                  [OK]          ║
-║  > Loading ideas...                     [OK]          ║
-║  > Loading coffee...                    [OK]          ║
-║                                                        ║
-║  [████████████████████████████████] 100%              ║
-║                                                        ║
-║  > System ready.                                       ║
-║                                                        ║
-║  Cauã Diego is always learning...                      ║
-║                                                        ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
+## 🌐 `$ connect`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Caua031&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Caua031-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cau%C3%A3_Diego-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-diego)
+[![Instagram](https://img.shields.io/badge/Instagram-cdiego__sv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cdiego_sv)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Caua031&label=PROFILE%20VIEWS&color=bb9af7&style=for-the-badge"/>
 
 <br><br>
 
@@ -269,4 +194,4 @@ commitando em Python/JS/etc., ele se atualiza sozinho.</sub></p>
 
 <!-- ======================= FOOTER ======================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0077FF,100:00FF41&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=120&section=footer"/>
