@@ -18,7 +18,7 @@
 
 ---
 
-## 🖥️ ` whoami`
+## 🖥️ Whoami
 
 ```text
 ┌──────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@ que me permitam colocar meus conhecimentos em prática.
 
 ---
 
-## ⚡ `$ skills`
+## ⚡Skills
 
 <div align="center">
 
@@ -63,7 +63,7 @@ certificação profissional.</sub></p>
 
 ---
 
-## 🚀 `$ projects`
+## 🚀 Projects
 
 <table width="100%">
 <tr>
@@ -115,7 +115,7 @@ comandos por voz.
 
 ---
 
-## 🧪 `$ currently_learning`
+## 🧪 $ currently_learning
 
 <div align="center">
 
