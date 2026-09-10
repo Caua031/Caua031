@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=180&section=header&text=Cau%C3%A3%20Diego&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=200&section=header&text=Cau%C3%A3%20Diego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Science%20Student%20%C2%B7%20Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o&descAlignY=52&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7DCFFF&center=true&vCenter=true&width=750&lines=%3E+Inicializando+sistema...;%3E+Carregando+Cau%C3%A3+Diego...;%3E+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+Desenvolvedor+em+forma%C3%A7%C3%A3o;%3E+Aprendendo.+Criando.+Evoluindo." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=7DCFFF&center=true&vCenter=true&width=800&lines=%3E+inicializando+perfil...;%3E+carregando+Cau%C3%A3+Diego...;%3E+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+construindo+projetos+full+stack;%3E+sempre+aprendendo%2C+sempre+evoluindo" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Caua031-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cau%C3%A3_Diego-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-diego)
-[![Instagram](https://img.shields.io/badge/Instagram-cdiego__sv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cdiego_sv)
+<a href="https://github.com/Caua031"><img src="https://img.shields.io/badge/GitHub-Caua031-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cau%C3%A3-diego"><img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3_Diego-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/cdiego_sv"><img src="https://img.shields.io/badge/Instagram-cdiego__sv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
@@ -18,29 +18,29 @@
 
 ---
 
-## 🖥️ Whoami
+## 🖥️ whoami
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│  Nome       : Cauã Diego                              │
-│  Formação   : Ciência da Computação                    │
-│  Status     : Desenvolvedor em formação                │
-│  Foco       : Desenvolvimento de Software               │
-│                                                         │
-│  > Sempre estudando. Sempre criando. Sempre evoluindo. │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  nome       : Cauã Diego                                             │
+│  formação   : Ciência da Computação                                  │
+│  status     : Desenvolvedor em formação                              │
+│  local      : São Paulo, Brasil                                      │
+│  foco atual : Full Stack Dev (React · Node.js/Express · PostgreSQL)  │
+│  objetivo   : Conseguir um estágio como desenvolvedor                │
+│                                                                      │
+│  > Sempre estudando. Sempre criando. Sempre evoluindo.               │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com
-interesse em desenvolvimento de software, automação e criação de projetos
-que me permitam colocar meus conhecimentos em prática.
-
-🎯 **Meta atual:** evoluir para Full Stack Developer — stack alvo `React` +
-`Node.js/Express` + `PostgreSQL`, com foco em conseguir um estágio.
+interesse em desenvolvimento de software, automação e projetos que unem
+teoria e prática. Gosto de aprender construindo — cada projeto abaixo
+nasceu de um problema real que eu quis resolver.
 
 ---
 
-## ⚡Skills
+## ⚡ skills
 
 <div align="center">
 
@@ -63,10 +63,22 @@ certificação profissional.</sub></p>
 
 ---
 
-## 🚀 Projects
+## 🚀 projects
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top">
+
+### 🤖 Jarvis
+Assistente pessoal em Python inspirado no Jarvis do Homem de Ferro:
+reconhecimento de voz, memória com busca vetorial e automação de tarefas
+por comando falado.
+
+<img src="https://skillicons.dev/icons?i=python,sqlite" height="28"/>
+
+![Em construção](https://img.shields.io/badge/status-em_constru%C3%A7%C3%A3o-yellow?style=for-the-badge)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🎯 Projeto Quiz
@@ -77,6 +89,8 @@ Quiz interativo com lógica de programação e interface dinâmica.
 [![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/projeto-quiz)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📝 Sistema de Cadastro
@@ -87,8 +101,6 @@ Formulários e lógica de programação aplicados na prática.
 [![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/Sistema-De-Cadastro)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 AluraBooks
@@ -99,28 +111,19 @@ Projeto de responsividade feito durante curso da Alura.
 [![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/AluraBooks)
 
 </td>
-<td width="50%" valign="top">
-
-### 🤖 Jarvis
-Assistente virtual em Python: reconhecimento de voz, automação e
-comandos por voz.
-
-<img src="https://skillicons.dev/icons?i=python" height="28"/>
-
-![Em breve](https://img.shields.io/badge/Ainda_sem_reposit%C3%B3rio_p%C3%BAblico-2C2C2C?style=for-the-badge)
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🧪 Atualmente aprendendo
+## 🧪 atualmente aprendendo
 
 <div align="center">
 
-`Lógica de programação` · `Desenvolvimento Web` · `Python` · `JavaScript`
-`Banco de Dados` · `Estruturas de Dados` · `Desenvolvimento de projetos`
+![Lógica de Programação](https://img.shields.io/badge/-L%C3%B3gica_de_Programa%C3%A7%C3%A3o-2C2C2C?style=flat-square)
+![Desenvolvimento Web](https://img.shields.io/badge/-Desenvolvimento_Web-2C2C2C?style=flat-square)
+![Estruturas de Dados](https://img.shields.io/badge/-Estruturas_de_Dados-2C2C2C?style=flat-square)
+![Banco de Dados](https://img.shields.io/badge/-Banco_de_Dados-2C2C2C?style=flat-square)
 
 </div>
 
@@ -131,20 +134,20 @@ comandos por voz.
 <table width="100%">
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Caua031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Caua031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua031&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=cloudshell-novnc-automation"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua031&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&exclude_repo=cloudshell-novnc-automation"/>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Caua031&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Caua031&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caua031&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caua031&theme=tokyo-night&hide_border=true&area=true&radius=10" />
 </div>
 
 <p align="center"><sub>Tudo acima é gerado em tempo real a partir da API do GitHub — não precisa
@@ -179,7 +182,7 @@ atualizar nada na mão.</sub></p>
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Caua031-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cau%C3%A3_Diego-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-diego)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cau%C3%A3_Diego-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-diego)
 [![Instagram](https://img.shields.io/badge/Instagram-cdiego__sv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cdiego_sv)
 
 <br><br>
