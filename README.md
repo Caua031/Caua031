@@ -32,10 +32,9 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-Sou estudante de **Ciência da Computação** e desenvolvedor em formação, com
-interesse em desenvolvimento de software, automação e projetos que unem
-teoria e prática. Gosto de aprender construindo — cada projeto abaixo
-nasceu de um problema real que eu quis resolver.
+Gosto de aprender construindo — cada projeto abaixo nasceu de um problema
+real que eu quis resolver. No momento, aprofundando lógica de programação,
+desenvolvimento web, estruturas de dados e banco de dados.
 
 ---
 
@@ -45,20 +44,7 @@ nasceu de um problema real que eu quis resolver.
 
 <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql,git,github,vscode,linux" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-55%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-50%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 </div>
-
-<p align="center"><sub>Os níveis são autoavaliação do meu momento atual de estudos, não uma
-certificação profissional.</sub></p>
 
 ---
 
@@ -115,19 +101,6 @@ Projeto de responsividade feito durante curso da Alura.
 
 ---
 
-## 📘 em aprendizado
-
-<div align="center">
-
-![Lógica de Programação](https://img.shields.io/badge/-L%C3%B3gica_de_Programa%C3%A7%C3%A3o-2C2C2C?style=flat-square)
-![Desenvolvimento Web](https://img.shields.io/badge/-Desenvolvimento_Web-2C2C2C?style=flat-square)
-![Estruturas de Dados](https://img.shields.io/badge/-Estruturas_de_Dados-2C2C2C?style=flat-square)
-![Banco de Dados](https://img.shields.io/badge/-Banco_de_Dados-2C2C2C?style=flat-square)
-
-</div>
-
----
-
 ## 📊 estatísticas do github
 
 <div align="center">
@@ -144,10 +117,6 @@ Projeto de responsividade feito durante curso da Alura.
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caua031&theme=tokyo-night&hide_border=true&area=true&radius=10" />
 </div>
-
-<p align="center"><sub>Os badges de seguidores e stars são gerados pelo shields.io e sempre
-carregam. O streak e o gráfico de atividade abaixo vêm de serviços gratuitos de terceiros —
-se algum dia pararem de aparecer, é só avisar que eu troco.</sub></p>
 
 ---
 
@@ -184,10 +153,6 @@ se algum dia pararem de aparecer, é só avisar que eu troco.</sub></p>
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Caua031&label=PROFILE%20VIEWS&color=bb9af7&style=for-the-badge"/>
-
-<br><br>
-
-### `> Sempre aprendendo. Sempre evoluindo.`
 
 </div>
 
