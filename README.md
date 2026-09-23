@@ -123,14 +123,6 @@ Projeto de responsividade feito durante curso da Alura.
 
 ---
 
-## 🏆 conquistas
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Caua031&theme=tokyonight&column=-1&margin-w=10&margin-h=10" />
-</div>
-
----
-
 ## 🐍 contribuições
 
 <div align="center">
