@@ -20,6 +20,12 @@
 
 ## 👤 sobre mim
 
+<div align="center">
+
+<img src="terminal-sobre-mim.svg" alt="terminal" width="620"/>
+
+</div>
+
 Gosto de aprender construindo — cada projeto abaixo nasceu de um problema
 real que eu quis resolver. No momento, aprofundando lógica de programação,
 desenvolvimento web, estruturas de dados e banco de dados.
