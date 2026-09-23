@@ -20,17 +20,11 @@
 
 ## 👤 sobre mim
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│  nome     : Cauã Diego                                  │
-│  formação : Ciência da Computação                       │
-│  local    : São Paulo, Brasil                           │
-│  stack    : React · Node.js/Express · PostgreSQL        │
-│  objetivo : Estágio em desenvolvimento de software      │
-│                                                         │
-│  > Sempre estudando. Sempre criando. Sempre evoluindo.  │
-└─────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=9ECE6A&background=1A1B27&center=true&vCenter=true&width=800&lines=%3E+whoami;cau%C3%A3-diego;%3E+cat+sobre.txt;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full+Stack+Dev+em+forma%C3%A7%C3%A3o;%3E+echo+%24STACK;React+%C2%B7+Node.js%2FExpress+%C2%B7+PostgreSQL;%3E+echo+%24OBJETIVO;Est%C3%A1gio+em+desenvolvimento+de+software" />
+
+</div>
 
 Gosto de aprender construindo — cada projeto abaixo nasceu de um problema
 real que eu quis resolver. No momento, aprofundando lógica de programação,
