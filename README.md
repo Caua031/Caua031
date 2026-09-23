@@ -22,13 +22,22 @@
 
 <div align="center">
 
-<img src="terminal-sobre-mim.svg" alt="terminal" width="560"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=9ECE6A&background=1A1B27&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami;cau%C3%A3+diego;%3E+role;estudante+de+ci%C3%AAncia+da+computa%C3%A7%C3%A3o;%3E+building;projetos+full+stack%2C+um+commit+de+cada+vez" />
 
 </div>
 
 Gosto de aprender construindo — cada projeto abaixo nasceu de um problema
 real que eu quis resolver. No momento, aprofundando lógica de programação,
 desenvolvimento web, estruturas de dados e banco de dados.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-7AA2F7?style=for-the-badge&labelColor=1A1B27"/>
+<img src="https://img.shields.io/badge/Local-S%C3%A3o_Paulo%2C_Brasil-BB9AF7?style=for-the-badge&labelColor=1A1B27"/>
+<img src="https://img.shields.io/badge/Foco-Dev_Full_Stack-F7768E?style=for-the-badge&labelColor=1A1B27"/>
+<img src="https://img.shields.io/badge/Status-Aberto_a_Est%C3%A1gio-9ECE6A?style=for-the-badge&labelColor=1A1B27"/>
+
+</div>
 
 ---
 
