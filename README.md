@@ -111,8 +111,8 @@ Sem descrição ainda.
 </tr>
 </table>
 <!-- PROJECTS:END -->
-</div>
 ---
+</div>
 
 ## 📊 estatísticas do github
 
