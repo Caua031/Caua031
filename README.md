@@ -59,46 +59,52 @@ desenvolvimento web, estruturas de dados e banco de dados.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Jarvis
-Assistente pessoal em Python inspirado no Jarvis do Homem de Ferro:
-reconhecimento de voz, memória com busca vetorial e automação de tarefas
-por comando falado.
+### projeto-quiz
+Sem descrição ainda.
 
-<img src="https://skillicons.dev/icons?i=python,sqlite" height="28"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="24"/>
 
-![Em construção](https://img.shields.io/badge/status-em_constru%C3%A7%C3%A3o-yellow?style=for-the-badge)
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/projeto-quiz)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Projeto Quiz
-Quiz interativo com lógica de programação e interface dinâmica.
+### gerenciador_academia
+Sem descrição ainda.
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
+<img src="https://skillicons.dev/icons?i=python" height="24"/>
 
-[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/projeto-quiz)
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/gerenciador_academia)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Sistema de Cadastro
-Formulários e lógica de programação aplicados na prática.
+### AluraBooks
+Projeto feito durante o curso de reponsividade da Alura.
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
+<img src="https://skillicons.dev/icons?i=html" height="24"/>
 
-[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/Sistema-De-Cadastro)
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/AluraBooks)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 AluraBooks
-Projeto de responsividade feito durante curso da Alura.
+### Sistema-De-Cadastro
+Sem descrição ainda.
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
+<img src="https://skillicons.dev/icons?i=html" height="24"/>
 
-[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/AluraBooks)
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/Sistema-De-Cadastro)
 
 </td>
 </tr>
