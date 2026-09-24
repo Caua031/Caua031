@@ -63,7 +63,7 @@ desenvolvimento web, estruturas de dados e banco de dados.
 ### projeto-quiz
 Sem descrição ainda.
 
-<img src="https://skillicons.dev/icons?i=javascript" height="24"/>
+<img src="https://skillicons.dev/icons?i=javascript,css,html" height="24"/>
 
 ⭐ 0
 
@@ -89,7 +89,7 @@ Sem descrição ainda.
 ### AluraBooks
 Projeto feito durante o curso de reponsividade da Alura.
 
-<img src="https://skillicons.dev/icons?i=html" height="24"/>
+<img src="https://skillicons.dev/icons?i=html,css" height="24"/>
 
 ⭐ 0
 
@@ -101,7 +101,7 @@ Projeto feito durante o curso de reponsividade da Alura.
 ### Sistema-De-Cadastro
 Sem descrição ainda.
 
-<img src="https://skillicons.dev/icons?i=html" height="24"/>
+<img src="https://skillicons.dev/icons?i=html,javascript" height="24"/>
 
 ⭐ 0
 
