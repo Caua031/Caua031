@@ -1,0 +1,30 @@
+name: atualizar projetos automaticamente
+
+on:
+  schedule:
+    - cron: "0 3 * * *"     # todo dia às 03:00 (UTC)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: buscar repositórios e atualizar README
+        run: python3 .github/scripts/update_projects.py
+        env:
+          GH_USERNAME: Caua031
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: commitar alterações
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 atualiza projetos automaticamente"
+          file_pattern: README.md
