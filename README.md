@@ -52,7 +52,11 @@ desenvolvimento web, estruturas de dados e banco de dados.
 ---
 
 ## 🚀 projetos
+<div align="center">
+  
 <sub>atualizado automaticamente todo dia a partir dos meus repositórios públicos</sub>
+
+</div>
 
 <!-- PROJECTS:START -->
 <table width="100%">
