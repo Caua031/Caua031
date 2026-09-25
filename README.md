@@ -27,6 +27,7 @@ real que eu quis resolver. No momento, aprofundando lógica de programação,
 desenvolvimento web, estruturas de dados e banco de dados.
 
 </div>
+<br><br><br>
 
 <div align="center">
 
