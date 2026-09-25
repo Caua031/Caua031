@@ -136,6 +136,10 @@ Projeto feito durante o curso de reponsividade da Alura.
 <img src="https://streak-stats.demolab.com?user=Caua031&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caua031&theme=tokyo-night&hide_border=true&area=true&radius=10" />
+</div>
+
 ---
 
 ## 🐍 contribuições
