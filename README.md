@@ -60,8 +60,20 @@ desenvolvimento web, estruturas de dados e banco de dados.
 <tr>
 <td width="50%" valign="top">
 
+### Sistema-De-Cadastro
+Sistema de cadastro com formulários e validações em JavaScript, HTML e CSS — projeto de prática de lógica de programação.
+
+<img src="https://skillicons.dev/icons?i=html,javascript" height="24"/>
+
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/Sistema-De-Cadastro)
+
+</td>
+<td width="50%" valign="top">
+
 ### projeto-quiz
-Sem descrição ainda.
+Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e interface dinâmica.
 
 <img src="https://skillicons.dev/icons?i=javascript,css,html" height="24"/>
 
@@ -70,6 +82,8 @@ Sem descrição ainda.
 [Ver repositório](https://github.com/Caua031/projeto-quiz)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### gerenciador_academia
@@ -82,8 +96,6 @@ Sem descrição ainda.
 [Ver repositório](https://github.com/Caua031/gerenciador_academia)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### AluraBooks
@@ -94,18 +106,6 @@ Projeto feito durante o curso de reponsividade da Alura.
 ⭐ 0
 
 [Ver repositório](https://github.com/Caua031/AluraBooks)
-
-</td>
-<td width="50%" valign="top">
-
-### Sistema-De-Cadastro
-Sem descrição ainda.
-
-<img src="https://skillicons.dev/icons?i=html,javascript" height="24"/>
-
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/Sistema-De-Cadastro)
 
 </td>
 </tr>
