@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="hacker-sobre-mim.gif" alt="terminal hacker" width="760"/>
+<img src="hacker-sobre-mim.svg" alt="terminal hacker" width="760"/>
 
 </div>
 
