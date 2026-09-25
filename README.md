@@ -51,7 +51,7 @@ desenvolvimento web, estruturas de dados e banco de dados.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql,git,github,vscode,pgadmin" />
+<img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql,git,github,vscode,pgadmin4" />
 
 </div>
 
