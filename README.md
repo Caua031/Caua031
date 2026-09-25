@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=200&section=header&text=Cau%C3%A3%20Diego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Dev%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=52&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D20,100:1EFF6E&height=200&section=header&text=Cau%C3%A3%20Diego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Dev%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=52&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=7DCFFF&center=true&vCenter=true&width=800&lines=%3E+inicializando+perfil...;%3E+carregando+Cau%C3%A3+Diego...;%3E+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+construindo+projetos+full+stack;%3E+sempre+aprendendo%2C+sempre+evoluindo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+inicializando+perfil...;%3E+carregando+Cau%C3%A3+Diego...;%3E+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%3E+construindo+projetos+full+stack;%3E+sempre+aprendendo%2C+sempre+evoluindo" />
 
 <br>
 
@@ -52,7 +52,6 @@ desenvolvimento web, estruturas de dados e banco de dados.
 ---
 
 ## 🚀 projetos
-<div align="center">
 <sub>atualizado automaticamente todo dia a partir dos meus repositórios públicos</sub>
 
 <!-- PROJECTS:START -->
@@ -60,59 +59,53 @@ desenvolvimento web, estruturas de dados e banco de dados.
 <tr>
 <td width="50%" valign="top">
 
-### Sistema-De-Cadastro
-Sistema de cadastro com formulários e validações em JavaScript, HTML e CSS — projeto de prática de lógica de programação.
+### 🤖 Jarvis
+Assistente pessoal em Python inspirado no Jarvis do Homem de Ferro:
+reconhecimento de voz, memória com busca vetorial e automação de tarefas
+por comando falado.
 
-<img src="https://skillicons.dev/icons?i=html,javascript" height="24"/>
+<img src="https://skillicons.dev/icons?i=python,sqlite" height="28"/>
 
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/Sistema-De-Cadastro)
+![Em construção](https://img.shields.io/badge/status-em_constru%C3%A7%C3%A3o-yellow?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
 
-### projeto-quiz
-Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e interface dinâmica.
+### 🎯 Projeto Quiz
+Quiz interativo com lógica de programação e interface dinâmica.
 
-<img src="https://skillicons.dev/icons?i=javascript,css,html" height="24"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
 
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/projeto-quiz)
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/projeto-quiz)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### gerenciador_academia
-Sem descrição ainda.
+### 📝 Sistema de Cadastro
+Formulários e lógica de programação aplicados na prática.
 
-<img src="https://skillicons.dev/icons?i=python" height="24"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
 
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/gerenciador_academia)
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/Sistema-De-Cadastro)
 
 </td>
 <td width="50%" valign="top">
 
-### AluraBooks
-Projeto feito durante o curso de reponsividade da Alura.
+### 📚 AluraBooks
+Projeto de responsividade feito durante curso da Alura.
 
-<img src="https://skillicons.dev/icons?i=html,css" height="24"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
 
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/AluraBooks)
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caua031/AluraBooks)
 
 </td>
 </tr>
 </table>
 <!-- PROJECTS:END -->
+
 ---
-</div>
 
 ## 📊 estatísticas do github
 
@@ -171,4 +164,4 @@ Projeto feito durante o curso de reponsividade da Alura.
 
 <!-- ======================= FOOTER ======================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1EFF6E,50:0F3D20,100:0D1117&height=120&section=footer"/>
