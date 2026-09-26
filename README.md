@@ -69,6 +69,18 @@ desenvolvimento web, estruturas de dados e banco de dados.
 <tr>
 <td width="50%" valign="top">
 
+### projeto-quiz-backend
+Sem descrição ainda.
+
+<img src="https://skillicons.dev/icons?i=javascript,css" height="24"/>
+
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/projeto-quiz-backend)
+
+</td>
+<td width="50%" valign="top">
+
 ### gerenciador_academia
 Sistema em Python para gerenciamento de academia — cadastro de alunos, controle de planos e acompanhamento de treinos.
 
@@ -79,6 +91,8 @@ Sistema em Python para gerenciamento de academia — cadastro de alunos, control
 [Ver repositório](https://github.com/Caua031/gerenciador_academia)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Sistema-De-Cadastro
@@ -91,8 +105,6 @@ Sistema de cadastro com formulários e validações em JavaScript, HTML e CSS �
 [Ver repositório](https://github.com/Caua031/Sistema-De-Cadastro)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### projeto-quiz
@@ -105,6 +117,8 @@ Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e inte
 [Ver repositório](https://github.com/Caua031/projeto-quiz)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### AluraBooks
