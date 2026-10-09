@@ -69,18 +69,6 @@ desenvolvimento web, estruturas de dados e banco de dados.
 <tr>
 <td width="50%" valign="top">
 
-### projeto-quiz-c
-Projeto de um quiz interativo desenvolvido em C para a Aula 08 da faculdade, com perguntas, alternativas, sistema de pontuação e gerenciamento das questões por arquivo CSV.
-
-<img src="https://skillicons.dev/icons?i=c" height="24"/>
-
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/projeto-quiz-c)
-
-</td>
-<td width="50%" valign="top">
-
 ### projeto-quiz
 Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e interface dinâmica.
 
@@ -89,6 +77,18 @@ Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e inte
 ⭐ 0
 
 [Ver repositório](https://github.com/Caua031/projeto-quiz)
+
+</td>
+<td width="50%" valign="top">
+
+### projeto-quiz-c
+Projeto de um quiz interativo desenvolvido em C para a Aula 08 da faculdade, com perguntas, alternativas, sistema de pontuação e gerenciamento das questões por arquivo CSV.
+
+<img src="https://skillicons.dev/icons?i=c" height="24"/>
+
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/projeto-quiz-c)
 
 </td>
 </tr>
