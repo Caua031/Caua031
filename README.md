@@ -69,6 +69,18 @@ desenvolvimento web, estruturas de dados e banco de dados.
 <tr>
 <td width="50%" valign="top">
 
+### projeto-quiz
+Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e interface dinâmica.
+
+<img src="https://skillicons.dev/icons?i=javascript,css,html,postgres" height="24"/>
+
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/projeto-quiz)
+
+</td>
+<td width="50%" valign="top">
+
 ### paginaweb
 Sem descrição ainda.
 
@@ -77,18 +89,6 @@ Sem descrição ainda.
 ⭐ 0
 
 [Ver repositório](https://github.com/Caua031/paginaweb)
-
-</td>
-<td width="50%" valign="top">
-
-### projeto-quiz
-Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e interface dinâmica.
-
-<img src="https://skillicons.dev/icons?i=javascript,css,html" height="24"/>
-
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/projeto-quiz)
 
 </td>
 </tr>
