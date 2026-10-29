@@ -72,7 +72,7 @@ desenvolvimento web, estruturas de dados e banco de dados.
 ### projeto-quiz
 Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e interface dinâmica.
 
-<img src="https://skillicons.dev/icons?i=javascript,css,html,postgres" height="24"/>
+<img src="https://skillicons.dev/icons?i=javascript,postgres,css" height="24"/>
 
 ⭐ 0
 
