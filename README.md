@@ -74,11 +74,25 @@ Quiz interativo feito em JavaScript, HTML e CSS, com lógica de perguntas e inte
 
 <img src="https://skillicons.dev/icons?i=javascript,postgres,css" height="24"/>
 
-⭐ 0
+⭐ 1
 
 [Ver repositório](https://github.com/Caua031/projeto-quiz)
 
 </td>
+<td width="50%" valign="top">
+
+### Sistema-De-Cadastro
+Sistema de cadastro com formulários e validações em JavaScript, HTML e CSS — projeto de prática de lógica de programação.
+
+<img src="https://skillicons.dev/icons?i=html,javascript" height="24"/>
+
+⭐ 0
+
+[Ver repositório](https://github.com/Caua031/Sistema-De-Cadastro)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### paginaweb
@@ -91,8 +105,6 @@ Sem descrição ainda.
 [Ver repositório](https://github.com/Caua031/paginaweb)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### projeto-quiz-c
@@ -105,6 +117,8 @@ Projeto de um quiz interativo desenvolvido em C para a Aula 08 da faculdade, com
 [Ver repositório](https://github.com/Caua031/projeto-quiz-c)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### gerenciador_academia
@@ -115,20 +129,6 @@ Sistema em Python para gerenciamento de academia — cadastro de alunos, control
 ⭐ 0
 
 [Ver repositório](https://github.com/Caua031/gerenciador_academia)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Sistema-De-Cadastro
-Sistema de cadastro com formulários e validações em JavaScript, HTML e CSS — projeto de prática de lógica de programação.
-
-<img src="https://skillicons.dev/icons?i=html,javascript" height="24"/>
-
-⭐ 0
-
-[Ver repositório](https://github.com/Caua031/Sistema-De-Cadastro)
 
 </td>
 <td width="50%" valign="top">
